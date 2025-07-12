@@ -17,8 +17,4 @@ The [[0. Critical Analyses]] and the [[Lesson Plans and Connection to Other Work
 [[1 Bibliography Notes and Connection to Outside Works]]
 [[Indigenous Development using AI Tools]]
 [[Connection to Dissertation]]
-<<<<<<< HEAD
 [[Who is speaking?]]
-=======
-[[Who is speaking?]]
->>>>>>> 7017736a79d0ca88b9838882b4bd8ee94254cff2
